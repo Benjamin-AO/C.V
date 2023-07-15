@@ -1,5 +1,13 @@
 body{
-    background-color: #eaf6f6;
+    background-color: #DDDDDD;
+}
+
+h1{
+    color: #082fcc;
+}
+
+h3{
+    color: #66BFBF;
 }
 
 hr{
@@ -8,4 +16,14 @@ hr{
     border-color: grey;
     border-width: 5px;
     width: 5%;
+}
+
+/*--------- class selector--------------*/
+
+.passport:hover{
+    background-color: #082fcc;
+}
+
+.myName:hover{
+    background-color: aqua;
 }
